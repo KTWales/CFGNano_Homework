@@ -81,5 +81,4 @@ If a user adds invalid entries then these details would need to be immediately f
 
 
 SQL 			>> 		Python Interface 	>> 	Online booking system
-SQL Relational Database
-Online booking system
+(Please see screenshot attached in this folder for the diagram)
